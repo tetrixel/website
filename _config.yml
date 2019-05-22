@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: TetriXel
+description: The most amazing Tetris board. Ever.
+show_downloads: false
+github:
+  repository_name: TetriXel's website
